@@ -23,3 +23,59 @@ Der **Olympic Winners Scraper** ist ein Python-Projekt, das die Medaillengewinne
 
    ```bash
    git clone https://github.com/username/Olympic-Winners-Scraper.git
+   ```
+
+2. **In das Projektverzeichnis wechseln:**
+
+   ```bash
+   cd Olympic-Winners-Scraper
+   ```
+
+3. **Virtuelle Umgebung erstellen und aktivieren (optional):**
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # Auf macOS/Linux
+   venv\Scripts\activate      # Auf Windows
+   ```
+
+4. **Benötigte Bibliotheken installieren:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## 🛠️ Nutzung
+
+Führen Sie das Skript aus, um die Daten zu scrapen und in den angegebenen Formaten zu speichern:
+
+```bash
+python olympic_winners_scraper.py
+```
+
+Nach dem Ausführen des Skripts finden Sie die gescrapten Daten im `data/`-Ordner:
+
+- `olympic_winners.csv`
+- `olympic_winners.json`
+- `olympic_winners.xlsx`
+
+## 📊 Beispielausgabe
+
+Die Medaillengewinner werden in einem DataFrame gespeichert und in den folgenden Formaten bereitgestellt:
+
+| Jahr | Gold          | Silber          | Bronze          |
+|------|---------------|-----------------|------------------|
+| 1900 | Großbritannien| Frankreich       | USA              |
+| 1904 | USA           | Kanada           | Deutschland      |
+
+## 🤝 Mitwirken
+
+Beiträge sind willkommen! Bitte erstellen Sie einen Fork des Repositories, nehmen Sie Ihre Änderungen vor und senden Sie einen Pull-Request. Stellen Sie sicher, dass Ihre Änderungen gut dokumentiert sind und die Tests bestehen.
+
+## 📝 Lizenz
+
+Dieses Projekt ist lizenziert unter der MIT License. Weitere Informationen finden Sie in der [LICENSE](LICENSE)-Datei.
+
+## 📬 Kontakt
+
+Für Fragen oder Anregungen wenden Sie sich bitte an [Ihr Name] (<your.email@example.com>).
