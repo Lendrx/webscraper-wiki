@@ -34,5 +34,5 @@ for table in tables:
 df = pd.DataFrame(olympic_data)
 
 # Export der Daten
-df.to_csv("/Users/lennartdreisbach/Data Science/Github/Olympic-Winners-Scraper/data/olympic_winners.csv", index=False)
-df.to_json("/Users/lennartdreisbach/Data Science/Github/Olympic-Winners-Scraper/data/olympic_winners.json", orient="records")
+df.to_csv("data/olympic_winners.csv", index=False)
+df.to_json("data/olympic_winners.json", orient="records")
