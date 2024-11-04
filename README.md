@@ -57,7 +57,6 @@ Nach dem Ausführen des Skripts finden Sie die gescrapten Daten im `data/`-Ordne
 
 - `olympic_winners.csv`
 - `olympic_winners.json`
-- `olympic_winners.xlsx`
 
 ## 📊 Beispielausgabe
 
@@ -75,7 +74,3 @@ Beiträge sind willkommen! Bitte erstellen Sie einen Fork des Repositories, nehm
 ## 📝 Lizenz
 
 Dieses Projekt ist lizenziert unter der MIT License. Weitere Informationen finden Sie in der [LICENSE](LICENSE)-Datei.
-
-## 📬 Kontakt
-
-Für Fragen oder Anregungen wenden Sie sich bitte an [Ihr Name] (<your.email@example.com>).
