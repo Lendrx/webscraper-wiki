@@ -1,7 +1,7 @@
 # Olympic Winners Scraper
 
 ![Olympic Winners Scraper](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/150px-Football_pictogram.svg.png) 
-[Liste der Olympiasieger im Fußball](https://de.wikipedia.org/wiki/Liste_der_Olympiasieger_im_Fu%C3%9Fball
+[Liste der Olympiasieger im Fußball](https://de.wikipedia.org/wiki/Liste_der_Olympiasieger_im_Fu%C3%9Fball)
 ## 📖 Übersicht
 
 Der **Olympic Winners Scraper** ist ein Python-Projekt, das die Medaillengewinner der Olympischen Spiele im Fußball von der Wikipedia-Seite scrapt. Die gesammelten Daten werden in verschiedenen Formaten gespeichert, darunter CSV, JSON und Excel, um die Analyse und Visualisierung zu erleichtern.
