@@ -1,6 +1,6 @@
 # Olympic Winners Scraper
 
-![Olympic Winners Scraper](https://example.com/image.png) <!-- Beispiel-Link zu einem Bild, das geändert oder entfernt werden kann -->
+![Olympic Winners Scraper](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/150px-Football_pictogram.svg.png)) <!-- Beispiel-Link zu einem Bild, das geändert oder entfernt werden kann -->
 
 ## 📖 Übersicht
 
