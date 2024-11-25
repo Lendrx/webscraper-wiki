@@ -1,0 +1,345 @@
+{
+    "1900 London *": {
+        "Gold": [
+            "Vereinigtes Konigreich 1801 Großbritannien"
+        ],
+        "Silber": [
+            "Dritte Französische Republik Frankreich"
+        ],
+        "Bronze": [
+            "Belgien Belgien"
+        ]
+    },
+    "1904 St. Louis **": {
+        "Gold": [
+            "Kanada 1868 Kanada"
+        ],
+        "Silber": [
+            "Vereinigte Staaten 45 Vereinigte Staaten"
+        ],
+        "Bronze": [
+            "Vereinigte Staaten 45 Vereinigte Staaten"
+        ]
+    },
+    "1906 Athen (Zwischenspiele) ***": {
+        "Gold": [
+            "Danemark Dänemark"
+        ],
+        "Silber": [
+            "Osmanisches Reich 1844 Osmanisches Reich"
+        ],
+        "Bronze": [
+            "Osmanisches Reich 1844 Osmanisches Reich"
+        ]
+    },
+    "1908 London": {
+        "Gold": [
+            "Vereinigtes Konigreich 1801 Großbritannien"
+        ],
+        "Silber": [
+            "Danemark Dänemark"
+        ],
+        "Bronze": [
+            "Niederlande Niederlande"
+        ]
+    },
+    "1912 Stockholm": {
+        "Gold": [
+            "Vereinigtes Konigreich 1801 Großbritannien"
+        ],
+        "Silber": [
+            "Danemark Dänemark"
+        ],
+        "Bronze": [
+            "Niederlande Niederlande"
+        ]
+    },
+    "1920 Antwerpen": {
+        "Gold": [
+            "Belgien Belgien"
+        ],
+        "Silber": [
+            "Spanien 1875 Spanien"
+        ],
+        "Bronze": [
+            "Niederlande Niederlande"
+        ]
+    },
+    "1924 Paris": {
+        "Gold": [
+            "Uruguay Uruguay"
+        ],
+        "Silber": [
+            "Schweiz Schweiz"
+        ],
+        "Bronze": [
+            "Schweden Schweden"
+        ]
+    },
+    "1928 Amsterdam": {
+        "Gold": [
+            "Uruguay Uruguay"
+        ],
+        "Silber": [
+            "Argentinien Argentinien"
+        ],
+        "Bronze": [
+            "Italien 1861 Italien"
+        ]
+    },
+    "1936 Berlin": {
+        "Gold": [
+            "Italien 1861 Italien"
+        ],
+        "Silber": [
+            "Osterreich Österreich"
+        ],
+        "Bronze": [
+            "Norwegen Norwegen"
+        ]
+    },
+    "1948 London": {
+        "Gold": [
+            "Schweden Schweden"
+        ],
+        "Silber": [
+            "Jugoslawien Jugoslawien"
+        ],
+        "Bronze": [
+            "Danemark Dänemark"
+        ]
+    },
+    "1952 Helsinki": {
+        "Gold": [
+            "Ungarn 1949 Ungarn"
+        ],
+        "Silber": [
+            "Jugoslawien Jugoslawien"
+        ],
+        "Bronze": [
+            "Schweden Schweden"
+        ]
+    },
+    "1956 Melbourne": {
+        "Gold": [
+            "Sowjetunion 1955 Sowjetunion"
+        ],
+        "Silber": [
+            "Jugoslawien Jugoslawien"
+        ],
+        "Bronze": [
+            "Bulgarien 1948 Bulgarien"
+        ]
+    },
+    "1960 Rom": {
+        "Gold": [
+            "Jugoslawien Jugoslawien"
+        ],
+        "Silber": [
+            "Danemark Dänemark"
+        ],
+        "Bronze": [
+            "Ungarn 1957 Ungarn"
+        ]
+    },
+    "1964 Tokio": {
+        "Gold": [
+            "Ungarn 1957 Ungarn"
+        ],
+        "Silber": [
+            "Tschechoslowakei Tschechoslowakei"
+        ],
+        "Bronze": [
+            "Deutschland Mannschaft Gesamtdeutsch Deutschland"
+        ]
+    },
+    "1968 Mexiko-Stadt": {
+        "Gold": [
+            "Ungarn 1957 Ungarn"
+        ],
+        "Silber": [
+            "Bulgarien 1967 Bulgarien"
+        ],
+        "Bronze": [
+            "Japan 1870 Japan"
+        ]
+    },
+    "1972 München": {
+        "Gold": [
+            "Polen 1944 Polen"
+        ],
+        "Silber": [
+            "Ungarn 1957 Ungarn"
+        ],
+        "Bronze": [
+            "Sowjetunion 1955 Sowjetunion ****Deutschland Demokratische Republik 1949 DDR"
+        ]
+    },
+    "1976 Montreal": {
+        "Gold": [
+            "Deutschland Demokratische Republik 1949 DDR"
+        ],
+        "Silber": [
+            "Polen 1944 Polen"
+        ],
+        "Bronze": [
+            "Sowjetunion 1955 Sowjetunion"
+        ]
+    },
+    "1980 Moskau": {
+        "Gold": [
+            "Tschechoslowakei Tschechoslowakei"
+        ],
+        "Silber": [
+            "Deutschland Demokratische Republik 1949 DDR"
+        ],
+        "Bronze": [
+            "Sowjetunion 1955 Sowjetunion"
+        ]
+    },
+    "1984 Los Angeles": {
+        "Gold": [
+            "Frankreich Frankreich"
+        ],
+        "Silber": [
+            "Brasilien 1968 Brasilien"
+        ],
+        "Bronze": [
+            "Jugoslawien Jugoslawien"
+        ]
+    },
+    "1988 Seoul": {
+        "Gold": [
+            "Sowjetunion Sowjetunion"
+        ],
+        "Silber": [
+            "Brasilien 1968 Brasilien"
+        ],
+        "Bronze": [
+            "Deutschland BR BR Deutschland"
+        ]
+    },
+    "1992 Barcelona": {
+        "Gold": [
+            "Spanien Spanien"
+        ],
+        "Silber": [
+            "Polen Polen"
+        ],
+        "Bronze": [
+            "Ghana Ghana"
+        ]
+    },
+    "1996 Atlanta": {
+        "Gold": [
+            "Nigeria Nigeria",
+            "Vereinigte Staaten Vereinigte Staaten"
+        ],
+        "Silber": [
+            "Argentinien Argentinien",
+            "China Volksrepublik Volksrepublik China"
+        ],
+        "Bronze": [
+            "Brasilien Brasilien",
+            "Norwegen Norwegen"
+        ]
+    },
+    "2000 Sydney": {
+        "Gold": [
+            "Kamerun Kamerun",
+            "Norwegen Norwegen"
+        ],
+        "Silber": [
+            "Spanien Spanien",
+            "Vereinigte Staaten Vereinigte Staaten"
+        ],
+        "Bronze": [
+            "Chile Chile",
+            "Deutschland Deutschland"
+        ]
+    },
+    "2004 Athen": {
+        "Gold": [
+            "Argentinien Argentinien",
+            "Vereinigte Staaten Vereinigte Staaten"
+        ],
+        "Silber": [
+            "Paraguay Paraguay",
+            "Brasilien Brasilien"
+        ],
+        "Bronze": [
+            "Italien Italien",
+            "Deutschland Deutschland"
+        ]
+    },
+    "2008 Peking": {
+        "Gold": [
+            "Argentinien Argentinien",
+            "Vereinigte Staaten Vereinigte Staaten"
+        ],
+        "Silber": [
+            "Nigeria Nigeria",
+            "Brasilien Brasilien"
+        ],
+        "Bronze": [
+            "Brasilien Brasilien",
+            "Deutschland Deutschland"
+        ]
+    },
+    "2012 London": {
+        "Gold": [
+            "Mexiko Mexiko",
+            "Vereinigte Staaten Vereinigte Staaten"
+        ],
+        "Silber": [
+            "Brasilien Brasilien",
+            "Japan Japan"
+        ],
+        "Bronze": [
+            "Korea Sud Südkorea",
+            "Kanada Kanada"
+        ]
+    },
+    "2016 Rio de Janeiro": {
+        "Gold": [
+            "Brasilien Brasilien",
+            "Deutschland Deutschland"
+        ],
+        "Silber": [
+            "Deutschland Deutschland",
+            "Schweden Schweden"
+        ],
+        "Bronze": [
+            "Nigeria Nigeria",
+            "Kanada Kanada"
+        ]
+    },
+    "2020 Tokio": {
+        "Gold": [
+            "Brasilien Brasilien",
+            "Kanada Kanada"
+        ],
+        "Silber": [
+            "Spanien Spanien",
+            "Schweden Schweden"
+        ],
+        "Bronze": [
+            "Mexiko Mexiko",
+            "Vereinigte Staaten Vereinigte Staaten"
+        ]
+    },
+    "2024 Paris": {
+        "Gold": [
+            "Spanien Spanien",
+            "Vereinigte Staaten Vereinigte Staaten"
+        ],
+        "Silber": [
+            "Frankreich Frankreich",
+            "Brasilien Brasilien"
+        ],
+        "Bronze": [
+            "Marokko Marokko",
+            "Deutschland Deutschland"
+        ]
+    }
+}

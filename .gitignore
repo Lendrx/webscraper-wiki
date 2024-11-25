@@ -4,6 +4,3 @@ __pycache__/
 
 # Ignoriere den Ordner für die virtuelle Umgebung
 venv/
-
-# Ignoriere gespeicherte Daten
-data/
