@@ -1,76 +1,34 @@
-# Olympic Winners Scraper
+# Wikipedia Scraper
 
-![Olympic Winners Scraper](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/150px-Football_pictogram.svg.png) 
-[Liste der Olympiasieger im Fußball](https://de.wikipedia.org/wiki/Liste_der_Olympiasieger_im_Fu%C3%9Fball)
-## 📖 Übersicht
+## 🎯 Was macht es?
+Automatisierter Scraper für Wikipedia-Artikel. Extrahiert strukturierte Daten aus Wikipedia-Seiten für Analysen und Datensätze.
 
-Der **Olympic Winners Scraper** ist ein Python-Projekt, das die Medaillengewinner der Olympischen Spiele im Fußball von der Wikipedia-Seite scrapt. Die gesammelten Daten werden in verschiedenen Formaten gespeichert, darunter CSV, JSON und Excel, um die Analyse und Visualisierung zu erleichtern.
+## 🛠️ Wie ist es gebaut?
+### Tech Stack:
+- Python 3.x
+- BeautifulSoup4
+- Pandas
+- Requests
+- MongoDB
 
-## 🚀 Funktionen
+### Architektur-Highlights:
+1. Intelligentes Rate-Limiting
+2. Strukturierte Datenextraktion
+3. Kategoriebasierte Filterung
 
-- Scraping von Medaillengewinner-Daten für Fußball-Olympiaden.
-- Speicherung der Daten in den Formaten CSV, JSON und Excel.
-- Einfache Erweiterungen zur Anpassung und Verbesserung des Scraping-Prozesses.
-
-## 📦 Voraussetzungen
-
-- Python 3.x muss installiert sein.
-- Internetverbindung für den Zugriff auf die Wikipedia-Seite.
-
-## 📥 Installation
-
-1. **Repository klonen:**
-
-   ```bash
-   git clone https://github.com/username/Olympic-Winners-Scraper.git
-   ```
-
-2. **In das Projektverzeichnis wechseln:**
-
-   ```bash
-   cd Olympic-Winners-Scraper
-   ```
-
-3. **Virtuelle Umgebung erstellen und aktivieren (optional):**
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # Auf macOS/Linux
-   venv\Scripts\activate      # Auf Windows
-   ```
-
-4. **Benötigte Bibliotheken installieren:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## 🛠️ Nutzung
-
-Führen Sie das Skript aus, um die Daten zu scrapen und in den angegebenen Formaten zu speichern:
-
-```bash
-python olympic_winners_scraper.py
+## 📊 Technische Features
+```python
+def extract_article_data(url):
+    content = fetch_wikipedia_page(url)
+    data = {
+        'title': extract_title(content),
+        'sections': parse_sections(content),
+        'references': extract_references(content)
+    }
+    return clean_and_validate(data)
 ```
 
-Nach dem Ausführen des Skripts finden Sie die gescrapten Daten im `data/`-Ordner:
-
-- `olympic_winners.csv`
-- `olympic_winners.json`
-
-## 📊 Beispielausgabe
-
-Die Medaillengewinner werden in einem DataFrame gespeichert und in den folgenden Formaten bereitgestellt:
-
-| Jahr | Gold          | Silber          | Bronze          |
-|------|---------------|-----------------|------------------|
-| 1900 | Großbritannien| Frankreich       | USA              |
-| 1904 | USA           | Kanada           | Deutschland      |
-
-## 🤝 Mitwirken
-
-Beiträge sind willkommen! Bitte erstellen Sie einen Fork des Repositories, nehmen Sie Ihre Änderungen vor und senden Sie einen Pull-Request. Stellen Sie sicher, dass Ihre Änderungen gut dokumentiert sind und die Tests bestehen.
-
-## 📝 Lizenz
-
-Dieses Projekt ist lizenziert unter der MIT License. Weitere Informationen finden Sie in der [LICENSE](LICENSE)-Datei.
+Key Features:
+- Parallele Artikel-Extraktion
+- Automatische Kategorisierung
+- Export in verschiedene Formate
